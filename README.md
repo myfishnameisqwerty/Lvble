@@ -2,15 +2,15 @@
 names of 3 property management companies.
  - Property manager company is a midlmen between the property owner and tenant.
  Some companies:
-    Greystar Real Estate Partners
-    Lincoln Property Company
+    Greystar Real Estate Partners,
+    Lincoln Property Company,
     Asset Living
 2. What is a property management software company? Please provide the names of
 3 property management software companies.
     - A company that provides software solutions designed for property managers. Basicly creates a software infrastructure that allows property manager company to work more efficient.
     - Companies:
-        LVBLE
-        AppFolio
+        LVBLE,
+        AppFolio,
         Innago
 3. What is greystar? How many apartments do they manage? Tell us something
 interesting about them that we might not know. Do they use property
