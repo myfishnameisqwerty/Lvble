@@ -35,6 +35,10 @@ curl -X 'POST' \
   "password": "Micael123"
 }'
 ```
+
+Validate the data at the DB:
+ Connect to container and run `sqlite3 /data/mydatabase.db`
+ run `SELECT * FROM users;`
 You can run tests.
 check <container_id> from `docker ps`
 connect into container `docker exec -it <container_id> /bin/bash`
